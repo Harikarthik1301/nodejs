@@ -1,4 +1,4 @@
-console.log("hey there i am harikarthik this the node practice");
+console.log("hey there, i am harikarthik, this the node practice");
 const os = require("os");
 console.log(os.type());
 console.log(os.version());
