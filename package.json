@@ -5,11 +5,11 @@
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "start": "nodemon server.js"
+    "start": "node server.js"
   },
-  "author": "",
+  "author": "hari",
   "license": "ISC",
-  "devDependencies": {
-    "nodemon": "^3.0.1"
+  "dependencies": {
+    "date-fns": "^2.30.0"
   }
 }
